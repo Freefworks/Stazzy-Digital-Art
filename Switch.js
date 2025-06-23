@@ -1,0 +1,1 @@
+var x = 1; function switchImg() {if (x == 1) {document.getElementById("imgToSwitch").src = "26 Cyber Space TP.png"; x++;} else if (x == 2) {document.getElementById("imgToSwitch").src = "27 Art Thief TP.png"; x++;} else if (x == 3) {document.getElementById("imgToSwitch").src = "3 Intermission TP.png"; x = 1;}}
