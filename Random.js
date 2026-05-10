@@ -65,5 +65,18 @@ var sites = [
 'digital-art-64.html',
 'digital-art-65.html',
 'digital-art-66.html',
-'digital-art-67.html'
+'digital-art-67.html',
+'digital-art-68.html',
+'digital-art-69.html',
+'digital-art-70.html',
+'digital-art-71.html',
+'digital-art-72.html',
+'digital-art-73.html',
+'digital-art-74.html',
+'digital-art-75.html',
+'digital-art-76.html',
+'digital-art-77.html',
+'digital-art-78.html',
+'digital-art-79.html',
+'digital-art-80.html'
 ]; function randomSite() {var i = parseInt(Math.random() * sites.length); location.href = sites[i];}
